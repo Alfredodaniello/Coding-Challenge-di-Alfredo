@@ -1,0 +1,81 @@
+body{
+    background-size: cover;
+}
+
+.box {
+    font-family: 'Poppins', sans-serif;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: auto;
+    margin-top: 50px;
+    width: 940px;
+    height: 625px;
+}
+
+img{
+    margin-top: 20px;
+    width: 250px;
+}
+
+header{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: rgb(14, 190, 28);
+}
+
+nav{
+    margin-top: -20px;
+}
+
+.titolo{
+    margin-top: -10px;
+}
+
+.pulsanti{
+    margin-top: -20px;
+    width: 650px;
+    height: 40px;
+    margin: auto;       
+    background-color: rgb(14, 190, 28);
+}
+
+.navigazione{
+    padding-top: 6px;
+    text-align: center;
+    }
+
+main{
+font-size: 10px;
+font-family: 'Poppins', sans-serif;
+color: rgb(255, 255, 255);
+margin-left: 145px;
+}
+
+.spazio{
+    height: 25px;
+}
+
+.monopattini{
+    display: inline;
+    }
+
+.visualizzacarica{
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    background-color: rgb(213, 144, 15);
+}
+
+.visualizzacarica2{
+    border-radius: 10px;
+    width: 450px;
+    height: 30px;
+    background-color: rgb(14, 190, 28);
+}
+
+.visualizzacarica3{
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    background-color: rgb(255, 0, 0);
+}
